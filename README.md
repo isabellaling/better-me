@@ -1,6 +1,6 @@
 
 
-#MySQL
+# MySQL
 
 [CentOS下安装MySQL](https://dev.mysql.com/doc/refman/5.6/en/linux-installation-yum-repo.html)
 
